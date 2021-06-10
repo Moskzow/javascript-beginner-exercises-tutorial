@@ -4,3 +4,9 @@ function isOdd(myNumber)
 }
 
 // Your code below:
+let odd = isOdd(45345);
+
+// const calling = {
+//     myNumber: 45345
+// };
+console.log(odd);
